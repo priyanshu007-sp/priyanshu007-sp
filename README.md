@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫
+
 # Hey, I'm Priyanshu 👋<br><br>💻 **Frontend Developer | BCA Student | Future Full-Stack Engineer**<br><br>I'm a BCA student passionate about building modern, responsive, and visually appealing web experiences. I enjoy turning creative ideas into interactive websites using modern frontend technologies.<br><br>🚀 **Currently working on**<br><br>- Building interactive websites with React and Tailwind CSS.<br>- Exploring GSAP animations and smooth scrolling experiences.<br>- Improving my JavaScript skills through hands-on projects.<br>- Learning full-stack development and exploring cloud & DevOps.<br><br>🛠️ **Tech Stack**<br><br>- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS<br>- **Animation:** GSAP<br>- **Programming:** Java(Basics) , Python (Basics)<br>- **Tools:** Git, GitHub, VS Code<br><br>🎯 **My Goals**<br><br>- Build real-world projects that solve problems.<br>- Become a confident, independent developer.<br>- Contribute to open-source projects.<br>- Grow into a Full-Stack Software Engineer.<br><br>📫 **Let's connect and build something awesome!**<br>
 
 
